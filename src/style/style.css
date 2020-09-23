@@ -1,3 +1,37 @@
+html {
+  background-color: aqua;
+  background-size: 10%;
+  width: 100%;
+  margin: auto;
+}
+
+#root {
+  background-color: cornflowerblue;
+  margin: auto;
+  padding: 20px 0 130% 0;
+}
+
 .test {
   color: blue;
+}
+
+.headers {
+  text-align: center;
+  color: rgb(15, 5, 56);
+}
+
+.dialog-box {
+  padding: 0 0 0 0;
+}
+
+.input-form {
+  display: flex;
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+
+.thebutton {
+  display: flex;
+  margin: 10px auto 0 auto;
+  padding: 5px;
 }
